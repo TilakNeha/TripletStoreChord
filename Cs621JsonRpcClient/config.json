@@ -1,0 +1,5 @@
+{"serverID":"myserver",
+"protocol":"tcp",
+"ipAddress":"localhost",
+"port":":1111",
+"methods":["lookup", "insert", "insertOrUpdate", "delete", "listKeys", "listIDs", "shutdown", "purgeUnusedTriplets"]}

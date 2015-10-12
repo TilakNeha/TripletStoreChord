@@ -1,0 +1,4 @@
+cp JsonDict3Server.go ../Cs621JsonRpcServer2/.
+cp JsonDict3Server.go ../Cs621JsonRpcServer3/.
+cp JsonDict3Server.go ../Cs621JsonRpcServer4/.
+cp JsonDict3Server.go ../Cs621JsonRpcServer5/.

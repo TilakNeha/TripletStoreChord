@@ -1,0 +1,10 @@
+{"serverID":"myserver",
+"protocol":"tcp",
+"ipAddress":"localhost",
+"port":":1234",
+"persistentStorageContainer":{"file":"dict3.txt"},
+"stabilizeInterval":3,
+"checkPredInterval":10,
+"fixfingersInterval":1,
+"entrypoint":"null",
+"methods":["lookup", "insert", "insertOrUpdate", "delete", "listKeys", "listIDs", "shutdown","purgeUnusedTriplets"]}
